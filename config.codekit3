@@ -1398,6 +1398,18 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/css\/apexcharts.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/apexcharts-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/css\/header.css.map" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1480,6 +1492,18 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/css\/protip.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/protip-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/css\/special-min.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -1503,6 +1527,142 @@
       "oAP" : "\/css\/special-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/csv\/Bitcoin.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Bitcoin.csv",
+      "oF" : 0
+    },
+    "\/csv\/Booking.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Booking.csv",
+      "oF" : 0
+    },
+    "\/csv\/Calida.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Calida.csv",
+      "oF" : 0
+    },
+    "\/csv\/Danone.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Danone.csv",
+      "oF" : 0
+    },
+    "\/csv\/DocMorris.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/DocMorris.csv",
+      "oF" : 0
+    },
+    "\/csv\/Enjin.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Enjin.csv",
+      "oF" : 0
+    },
+    "\/csv\/ETF immobilier suisse.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/ETF immobilier suisse.csv",
+      "oF" : 0
+    },
+    "\/csv\/Ethereum.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Ethereum.csv",
+      "oF" : 0
+    },
+    "\/csv\/Nikola.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Nikola.csv",
+      "oF" : 0
+    },
+    "\/csv\/Novavax.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Novavax.csv",
+      "oF" : 0
+    },
+    "\/csv\/Stadler Rail.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Stadler Rail.csv",
+      "oF" : 0
+    },
+    "\/csv\/Tesla.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Tesla.csv",
+      "oF" : 0
+    },
+    "\/csv\/Walmart.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Walmart.csv",
+      "oF" : 0
+    },
+    "\/csv\/Yuh - Évolution avec graphiques.xlsx" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Yuh - Évolution avec graphiques.xlsx",
+      "oF" : 0
+    },
+    "\/csv\/Yuh - fluctuation du panier gagnants et perdants du jour.xlsx" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Yuh - fluctuation du panier gagnants et perdants du jour.xlsx",
+      "oF" : 0
+    },
+    "\/csv\/Yuh - montants début et fin.xlsx" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Yuh - montants début et fin.xlsx",
+      "oF" : 0
+    },
+    "\/csv\/Yuh - plan d'investissements.xlsx" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/csv\/Yuh - plan d'investissements.xlsx",
+      "oF" : 0
     },
     "\/favicon\/android-chrome-144x144.png" : {
       "ft" : 32768,
@@ -1967,6 +2127,29 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/img-hero.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/img-hero.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/margaux-sitavanc.jpg" : {
+      "ft" : 16384,
+      "iS" : 90466,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/margaux-sitavanc.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/placeholder.png" : {
       "ft" : 32768,
       "iS" : 30255,
@@ -2058,6 +2241,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/actions.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/actions.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/AI\/Nespresso_Wordmark_2021_CMYK_Black.ai" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2108,14 +2301,37 @@
       "oAP" : "\/img\/this\/Communique_Nespresso_LCA Study.pdf",
       "oF" : 0
     },
+    "\/img\/this\/conclusions.png" : {
+      "ft" : 32768,
+      "iS" : 14236,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/conclusions.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/etf.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/etf.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/hero-img.png" : {
       "ft" : 32768,
       "iS" : 1297814,
       "oA" : 0,
       "oAP" : "\/img\/this\/hero-img.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -2234,6 +2450,26 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/illustration-cards.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/illustration-cards.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/illustration-comment-ca-marche.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/illustration-comment-ca-marche.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/Infographic_B2C_DE.jpg" : {
       "ft" : 16384,
       "iS" : 316139,
@@ -2260,6 +2496,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/logo-bitcoin.png" : {
+      "ft" : 32768,
+      "iS" : 6610,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/logo-bitcoin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/logo-docmorris.png" : {
+      "ft" : 32768,
+      "iS" : 6541,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/logo-docmorris.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/this\/logo-nespresso-black.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -2283,6 +2545,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/logo-nikola.png" : {
+      "ft" : 32768,
+      "iS" : 4971,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/logo-nikola.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/this\/logo-relove.png" : {
       "ft" : 32768,
       "iS" : 4695,
@@ -2291,6 +2566,163 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/logo-tesla.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/logo-tesla.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/logo-walmart.png" : {
+      "ft" : 32768,
+      "iS" : 79373,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/logo-walmart.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/logo-yuh.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/logo-yuh.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/methode1.png" : {
+      "ft" : 32768,
+      "iS" : 6298,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/methode1.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/methode2.png" : {
+      "ft" : 32768,
+      "iS" : 12877,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/methode2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/methode3.png" : {
+      "ft" : 32768,
+      "iS" : 13038,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/methode3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/miniheader-img-1.png" : {
+      "ft" : 32768,
+      "iS" : 195297,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/miniheader-img-1.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/miniheader-img-2.png" : {
+      "ft" : 32768,
+      "iS" : 156164,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/miniheader-img-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/miniheader-img-3.png" : {
+      "ft" : 32768,
+      "iS" : 176587,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/miniheader-img-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/miniheader-img-4-new.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/miniheader-img-4-new.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/miniheader-img-4.png" : {
+      "ft" : 32768,
+      "iS" : 63200,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/miniheader-img-4.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/this\/miniheader-img-4.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/miniheader-img-4.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/miniheader-img-yuh.png" : {
+      "ft" : 32768,
+      "iS" : 35316,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/miniheader-img-yuh.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -2369,6 +2801,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/this\/opening.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/opening.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/positive-cup-numbers-p38.png" : {
       "ft" : 32768,
       "iS" : 75011,
@@ -2441,6 +2883,26 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/this\/test.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/test.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/img\/this\/welldone.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/img\/this\/welldone.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/img\/this\/zeta.jpg" : {
       "ft" : 16384,
       "iS" : 129959,
@@ -2469,6 +2931,39 @@
       "oA" : 0,
       "oAP" : "\/index.php",
       "oF" : 0
+    },
+    "\/js\/apexcharts.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/apexcharts.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/charts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/charts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/charts.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/charts-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/js\/counter-up.js" : {
       "bF" : 0,
@@ -2602,6 +3097,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/js\/protip.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/protip-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/js\/vendor\/modernizr-3.11.2.min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -2609,6 +3115,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/js\/vendor\/modernizr-3.11.2.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/wow-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/wow-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/wow.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/wow-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -2677,7 +3205,7 @@
     },
     "\/social.jpg" : {
       "ft" : 16384,
-      "iS" : 230622,
+      "iS" : 285681,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/social.jpg",
@@ -7768,7 +8296,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 689520013.15429795,
-    "displayValue" : "bl-nespresso-1",
+    "displayValue" : "bl-longread-yuh-1",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0
