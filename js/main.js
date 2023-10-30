@@ -1159,7 +1159,7 @@
     .on("enter", function (event) {
        // alert('lol');
        cardsTl.play();       
-    }).addIndicators().triggerHook(0.6).addTo(controller);
+    }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////
@@ -1187,7 +1187,7 @@
         .on("enter", function (event) {
            // alert('lol');
            nikolaIconTl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     clearDocmorrisIconStage();
     function clearDocmorrisIconStage(){
@@ -1202,7 +1202,7 @@
         .on("enter", function (event) {
             // alert('lol');
             docmorrisIconTl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     clearBitcoinIconStage();
     function clearBitcoinIconStage(){
@@ -1217,7 +1217,7 @@
         .on("enter", function (event) {
             // alert('lol');
             bitcoinIconTl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////
@@ -1251,7 +1251,7 @@
         .on("enter", function (event) {
            // alert('lol');
             mockupYuh1Tl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////
@@ -1279,7 +1279,7 @@
                 chartNikola.render();
                 chartNikolaDone = true;
             }
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////
@@ -1307,7 +1307,7 @@
                 chartBitcoin.render();
                 chartBitcoinDone = true;
             }
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////
@@ -1335,7 +1335,7 @@
                 chartDocmorris.render();
                 chartDocmorrisDone = true;
             }
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
         
             
         
@@ -1378,7 +1378,7 @@
         .on("enter", function (event) {
            // alert('lol');
             mockupYuh2Tl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     //     ANIMATION BUYER
@@ -1422,7 +1422,7 @@
     .on("enter", function (event) {
        // alert('lol');
        actionsTl.play();       
-    }).addIndicators().triggerHook(0.6).addTo(controller);
+    }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     //     ANIMATION WALMART ICON
@@ -1444,7 +1444,7 @@
         .on("enter", function (event) {
            // alert('lol');
            walmartIconTl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     //     ANIMATION TESLA ICON
@@ -1466,7 +1466,7 @@
         .on("enter", function (event) {
            // alert('lol');
            teslaIconTl.play();       
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     //     ANIMATION WALMART CHART
@@ -1494,7 +1494,7 @@
                 chartWalmart.render();
                 chartWalmartDone = true;
             }
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
     ////////////////////////////////////////////////////////////////
     //     ANIMATION TESLA CHART
@@ -1522,7 +1522,7 @@
                 chartTesla.render();
                 chartTeslaDone = true;
             }
-        }).addIndicators().triggerHook(0.6).addTo(controller);
+        }).triggerHook(0.6).addTo(controller);
 
   ////////////////////////////////////////////////////////////////
   //     ANIMATION METHODE 3 HEADER
@@ -1554,7 +1554,7 @@
       .on("enter", function (event) {
           // alert('lol');
           mockupYuh3Tl.play();       
-      }).addIndicators().triggerHook(0.6).addTo(controller);
+      }).triggerHook(0.6).addTo(controller);
 
   ////////////////////////////////////////////////////////////////
   //     ANIMATION ETF
@@ -1598,7 +1598,7 @@
   .on("enter", function (event) {
       // alert('lol');
       etfTl.play();       
-  }).addIndicators().triggerHook(0.6).addTo(controller);
+  }).triggerHook(0.6).addTo(controller);
 
   ////////////////////////////////////////////////////////////////
   //     ANIMATION CONCLUSIONS HEADER
@@ -1623,7 +1623,7 @@
       .on("enter", function (event) {
           // alert('lol');
           mockupYuh4Tl.play();       
-      }).addIndicators().triggerHook(0.6).addTo(controller);
+      }).triggerHook(0.6).addTo(controller);
 
   ////////////////////////////////////////////////////////////////
   //     ANIMATION WELLDONE
@@ -1672,7 +1672,7 @@
   .on("enter", function (event) {
       // alert('lol');
       welldoneTl.play();       
-  }).addIndicators().triggerHook(0.6).addTo(controller);
+  }).triggerHook(0.6).addTo(controller);
 
   
 })(jQuery);
